@@ -18,7 +18,7 @@
 
 - 打包好的工具就在本仓库：
 
-- 作品读取工具：[https://github.com/sctm002/video_down/blob/main/提取视频链接.exe]
+- 作品读取工具：[https://github.com/sctm002/video_down/blob/main/%E6%8F%90%E5%8F%96%E8%A7%86%E9%A2%91%E9%93%BE%E6%8E%A5.exe]
 
-- 视频下载工具：[https://github.com/sctm002/video_down/blob/main/视频批量下载.exe]
+- 视频下载工具：[https://github.com/sctm002/video_down/blob/main/%E8%A7%86%E9%A2%91%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD.zip]
 
