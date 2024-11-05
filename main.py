@@ -92,7 +92,7 @@ class Browser(QMainWindow):
     def get_video_source(self):
         js = """
         (function() {
-            var video = document.querySelector('video.player-video[data-v-4c895b0a]');
+            var video = document.querySelector('video.player-video');
             return video ? video.src : '';
         })()
         """
