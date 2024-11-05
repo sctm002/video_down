@@ -26,7 +26,9 @@
 
 - 作品读取工具：[https://github.com/sctm002/video_down/blob/main/%E6%8F%90%E5%8F%96%E8%A7%86%E9%A2%91%E9%93%BE%E6%8E%A5.exe]
 
-- 视频下载工具(由于文件大小限制，该压缩包还需下载“视频批量下载.z01”这个文件，才能一起解压。)：[https://github.com/sctm002/video_down/blob/main/%E8%A7%86%E9%A2%91%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD.zip]
+- 视频下载工具(由于文件大小限制，该压缩包还需下载“视频批量下载.z01”这个文件，才能一起解压。)：
+ [https://github.com/sctm002/video_down/blob/main/%E8%A7%86%E9%A2%91%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD.zip]
+ [https://github.com/sctm002/video_down/blob/main/%E8%A7%86%E9%A2%91%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BD.z01]
 
 - 会python的就直接下代码在pycharm工具运行就可以了，不会的，或者图方便的就下载打包后的exe。
 
